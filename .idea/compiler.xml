@@ -7,8 +7,10 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="friend" />
+        <module name="messages" />
         <module name="photo" />
         <module name="profile" />
+        <module name="recommendations" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

@@ -12,5 +12,9 @@
         <module>friend</module>
         <module>profile</module>
         <module>photo</module>
+        <module>messages</module>
+        <module>recommendations</module>
+        <module>prezents</module>
+        <module>gifts</module>
     </modules>
 </project>

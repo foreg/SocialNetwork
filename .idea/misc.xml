@@ -10,6 +10,7 @@
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/friends/pom.xml" />
+        <option value="$PROJECT_DIR$/prezents/pom.xml" />
         <option value="$PROJECT_DIR$/profiles/pom.xml" />
       </set>
     </option>
